@@ -1,0 +1,5 @@
+{
+  "name": "StoryFrame – AI Comic/Storyboard Generator",
+  "description": "An AI-powered tool that transforms short story scripts or children's tales into visually consistent comic strips or storyboard panels using Gemini.",
+  "requestFramePermissions": []
+}
